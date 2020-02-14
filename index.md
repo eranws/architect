@@ -7,7 +7,7 @@ A family-owned **software**, _shop_
 
 We do this and that
 
-# Team
+# [Team](./team.html)
 
 ## Liron
 
